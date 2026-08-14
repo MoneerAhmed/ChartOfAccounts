@@ -1,0 +1,6 @@
+@ChartOfAccounts.API_HostAddress = http://localhost:5212
+
+GET {{ChartOfAccounts.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
